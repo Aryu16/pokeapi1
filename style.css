@@ -23,7 +23,7 @@ body {
 
 }
 
-.overlay {
+(/*).overlay {
     position: absolute;
     z-index: -9;
     top: 50%;
@@ -34,7 +34,7 @@ body {
     object-fit: cover;
     background-color: rgba(0, 0, 0, 0.8);
 
-}
+}(*/)
 
 h1 {
     color: black;
